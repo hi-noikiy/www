@@ -80,3 +80,13 @@
 [0mGET / [32m200 [0m37.008 ms - 477[0m
 [0mGET /stylesheets/style.css [32m200 [0m4.547 ms - 111[0m
 [0mGET /favicon.ico [33m404 [0m3.356 ms - 332[0m
+[0mGET / [32m200 [0m3.811 ms - 477[0m
+[0mGET /favicon.ico [33m404 [0m2.248 ms - 332[0m
+[0mGET / [36m304 [0m22.487 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.400 ms - -[0m
+[0mGET / [36m304 [0m7.638 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.870 ms - -[0m
+[0mGET / [32m200 [0m8.865 ms - 477[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.549 ms - -[0m
+[0mGET / [36m304 [0m3.550 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.239 ms - -[0m
