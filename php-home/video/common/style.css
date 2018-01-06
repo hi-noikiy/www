@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+/*********************************************************************************
+ * Core: General Layout Style                                                    *
+ ********************************************************************************/
+
+body {
+  overflow-y: auto;
+  font-family: "Noto Sans KR", Roboto, Arial, sans-serif;
+  background-color: rgba(221, 75, 57, 0.5);
+}
+a {
+  transition: all 0.35s;
+}
+a:active,
+a:hover,
+a:focus {
+  outline: none;
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 {
+  line-height: 1.3em;
+}
+
+
+/*********************************************************************************
+ * waiting                                                                       *
+ ********************************************************************************/
+
+.full-page {
+  height: 100vh;
+  width: 100vw;
+}
+
+.full-page .display-area h1 {
+  font-size: 12rem;
+  font-weight: 700;
+  margin-bottom: 15rem;
+}
+
+.full-page .display-area h2 {
+  font-size: 8rem;
+  font-weight: 500;
+  margin-top: 12rem;
+}
+
+.full-page .display-area h3 {
+  font-size: 7rem;
+  font-weight: 500;
+  margin-top: 12rem;
+}
+
+
+
+/*********************************************************************************
+ * Component: Form                                                               *
+ ********************************************************************************/
+
+.col-form-label {
+  font-size: 18px;
+  /*font-weight: bold;*/
+}
+
+.form-control {
+  border-color: #d2d6de;
+  border-radius: 0px;
+  padding: 5px;
+  /*box-shadow: none;*/
+  font-family: Arial,sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+.form-control:focus {
+  border-color: #3c8dbc;
+  /*box-shadow: none;*/
+}
+.form-control::-moz-placeholder,
+.form-control:-ms-input-placeholder,
+.form-control::-webkit-input-placeholder {
+  color: #bbb;
+  opacity: 1;
+}
+.form-control:not(select) {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}

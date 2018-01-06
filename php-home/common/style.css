@@ -1,0 +1,262 @@
+/*********************************************************************************
+ * Core: General Layout Style                                                    *
+ ********************************************************************************/
+
+body {
+  overflow-y: scroll;
+  padding-top: 51px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 18px;
+}
+a {
+  transition: all 0.35s;
+}
+a:active,
+a:hover,
+a:focus {
+  outline: none;
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 {
+  line-height: 1.3em;
+}
+.bg-blue {
+  background-color: #0073b7 !important;
+  color: #fff !important;
+}
+
+.btn-outline {
+  border: 1px solid white;
+  color: white;
+}
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active {
+  border-color: #27ad5f;
+  background-color: #27ad5f;
+  color: white;
+}
+.btn-header {
+  padding: 15px 35px;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.text-title-span {
+  display: block;
+}
+@media (min-width: 768px) {
+  .text-title-span {
+    display: inline;
+  }
+}
+
+
+/*********************************************************************************
+ * Navbar                                                                        *
+ ********************************************************************************/
+
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px 16px 10px 16px;
+  background-color: white;
+}
+.navbar .navbar-brand {
+  padding: 0;
+  font-size: 1rem;
+}
+.navbar .navbar-brand img {
+  width: auto;
+  height: 30px;
+}
+.navbar .navbar-toggler {
+  border: 0px;
+  font-size: 14px;
+  opacity: 0.6;
+}
+.navbar .navbar-toggler:hover {
+  opacity: 1;
+}
+.navbar .navbar-nav .nav-item > a {
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  
+}
+@media (min-width: 768px) {
+  .navbar .navbar-nav .nav-item > a {
+    padding: 4px 8px;
+  }
+}
+
+
+/*********************************************************************************
+ * Header                                                                        *
+ ********************************************************************************/
+
+header {
+  width: 100%;
+  height: 410px;
+  overflow: hidden;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  /*background-attachment: fixed;*/
+}
+header.home {
+  background-image: url("/img/header/home-2.png");
+}
+header.chart {
+  background-image: url("/img/header/chart-4.png");
+}
+header.account {
+  background-image: url("/img/header/account-1.png");
+}
+
+
+/*********************************************************************************
+ * Section                                                                       *
+ ********************************************************************************/
+
+section {
+  padding: 5rem 0;
+}
+section.bg-first {
+  background-color: #fff;
+}
+section.bg-second {
+  background-color: #f3f3f3;
+}
+
+section .quote-img img {
+  width: 100px;
+}
+
+section .prepare {
+  width: 100%;
+  height: 480px;
+  background-image: url("/img/prepare.png");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+}
+section .prepare .wait-content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+section .prepare .wait-content h1.message {
+  display: inline-block;
+  margin: 0px;
+  padding: 8px 30px 12px 30px;
+  background-color: rgba(218, 68, 83, 0.5);
+}
+
+
+
+/*********************************************************************************
+ * Footer                                                                        *
+ ********************************************************************************/
+
+footer {
+  padding: 3rem 0 2rem 0;
+  font-size: 14px;
+  background-color: #222;
+  color: rgba(255, 255, 255, 0.5);
+}
+footer ul {
+  padding-left: 1rem;
+  list-style-type: square;
+}
+
+
+/*********************************************************************************
+ * Component: Modal                                                              *
+ ********************************************************************************/
+
+.modal {
+  background: rgba(0, 0, 0, 0.5);
+}
+.modal-content {
+  border-radius: 0px;
+}
+.modal-header {
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.modal-body {
+}
+.modal-body h1.motd {
+  margin: 20px 0px 30px 0px;
+  min-height:64px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 1.8em;
+  text-align: center;
+}
+
+
+
+/*********************************************************************************
+ * Component: Form                                                               *
+ ********************************************************************************/
+
+.col-form-label {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.form-control {
+  border-color: #d2d6de;
+  border-radius: 0px;
+  padding: 5px;
+  /*box-shadow: none;*/
+  font-family: Arial,sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+}
+.form-control:focus {
+  border-color: #3c8dbc;
+  /*box-shadow: none;*/
+}
+.form-control::-moz-placeholder,
+.form-control:-ms-input-placeholder,
+.form-control::-webkit-input-placeholder {
+  color: #bbb;
+  opacity: 1;
+}
+.form-control:not(select) {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+
+/*********************************************************************************
+ * Component: Media                                                              *
+ ********************************************************************************/
+
+.media i {
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+  border-radius: 50%;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: center;
+}
+/* 768px 이상이라면 (태블릿, 데스크탑) */
+@media (min-width: 768px) {
+  .media i {
+    margin-top: 0px;
+  }
+}
