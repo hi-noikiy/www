@@ -1,0 +1,82 @@
+[33m[nodemon] 1.14.3[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node /home/datafirst/www/express-home/bin/www`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.14.3[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node /home/datafirst/www/express-home/bin/www`[39m
+[0mGET / [36m304 [0m48.299 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.172 ms - -[0m
+[0mGET / [36m304 [0m10.888 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.370 ms - -[0m
+[0mGET / [36m304 [0m15.625 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.244 ms - -[0m
+[0mGET / [36m304 [0m11.150 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.369 ms - -[0m
+[0mGET / [36m304 [0m23.025 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.841 ms - -[0m
+[0mGET / [36m304 [0m9.152 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.316 ms - -[0m
+[0mGET / [36m304 [0m20.405 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.247 ms - -[0m
+[0mGET / [36m304 [0m14.620 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.329 ms - -[0m
+[0mGET / [36m304 [0m18.532 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.223 ms - -[0m
+[0mGET / [36m304 [0m5.433 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.278 ms - -[0m
+[0mGET / [36m304 [0m26.215 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.842 ms - -[0m
+[0mGET / [36m304 [0m7.403 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.383 ms - -[0m
+[0mGET / [36m304 [0m17.141 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.324 ms - -[0m
+[0mGET / [36m304 [0m3.903 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.312 ms - -[0m
+[0mGET / [36m304 [0m8.695 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.250 ms - -[0m
+[0mGET / [36m304 [0m12.817 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.255 ms - -[0m
+[0mGET / [36m304 [0m11.206 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.262 ms - -[0m
+[0mGET / [36m304 [0m5.711 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.241 ms - -[0m
+[0mGET / [36m304 [0m22.392 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.466 ms - -[0m
+[0mGET / [32m200 [0m5.427 ms - 477[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.631 ms - -[0m
+[0mGET / [36m304 [0m14.111 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.279 ms - -[0m
+[0mGET / [36m304 [0m28.022 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.597 ms - -[0m
+[0mGET / [36m304 [0m13.807 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.705 ms - -[0m
+[0mGET / [36m304 [0m15.105 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.365 ms - -[0m
+[0mGET / [36m304 [0m12.753 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.367 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.887 ms - -[0m
+[0mGET / [32m200 [0m12.031 ms - 477[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.508 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m11.709 ms - 332[0m
+[0mGET / [32m200 [0m31.249 ms - 477[0m
+[0mGET / [32m200 [0m12.739 ms - 477[0m
+[0mGET / [32m200 [0m14.797 ms - 477[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.563 ms - 111[0m
+[0mGET / [32m200 [0m9.372 ms - 477[0m
+[0mGET / [32m200 [0m16.628 ms - 477[0m
+[0mGET / [32m200 [0m8.443 ms - 477[0m
+[0mGET / [32m200 [0m7.207 ms - 477[0m
+[0mGET / [32m200 [0m12.505 ms - 477[0m
+[0mGET / [32m200 [0m5.312 ms - 477[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.663 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m9.400 ms - 332[0m
+[0mGET / [32m200 [0m60.345 ms - 477[0m
+[0mGET / [32m200 [0m13.293 ms - 477[0m
+[0mGET / [32m200 [0m24.053 ms - 477[0m
+[0mGET / [32m200 [0m8.576 ms - 477[0m
+[0mGET / [32m200 [0m37.008 ms - 477[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.547 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m3.356 ms - 332[0m
