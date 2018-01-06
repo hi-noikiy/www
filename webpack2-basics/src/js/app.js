@@ -1,3 +1,5 @@
+import { showButton, showText } from "./dom-loader";
+
 var isShow = false;
 
 //var showButton = document.querySelector("#show-btn");
