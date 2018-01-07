@@ -1,0 +1,23 @@
+
+/*********************************************************************************
+ * Core: General Layout Style                                                    *
+ ********************************************************************************/
+
+body {
+  overflow-y: scroll;
+  padding-top: 51px;
+  font-size: 18px;
+  background-color: gray;
+}
+a {
+  transition: all 0.35s;
+}
+a:active,
+a:hover,
+a:focus {
+  outline: none;
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 {
+  line-height: 1.3em;
+}

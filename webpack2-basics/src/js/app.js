@@ -1,3 +1,4 @@
+import "../css/style.css";
 import { showButton, showText } from "./dom-loader";
 
 var isShow = false;
