@@ -90,3 +90,13 @@
 [0mGET /stylesheets/style.css [36m304 [0m0.549 ms - -[0m
 [0mGET / [36m304 [0m3.550 ms - -[0m
 [0mGET /stylesheets/style.css [36m304 [0m0.239 ms - -[0m
+[0mGET / [32m200 [0m12.378 ms - 477[0m
+[0mGET / [32m200 [0m5.262 ms - 477[0m
+[0mGET / [32m200 [0m40.044 ms - 477[0m
+[0mGET / [32m200 [0m6.726 ms - 477[0m
+[0mGET / [32m200 [0m3.322 ms - 477[0m
+[0mGET / [32m200 [0m26.703 ms - 477[0m
+[0mGET / [32m200 [0m12.333 ms - 477[0m
+[0mGET /favicon.ico [33m404 [0m11.751 ms - 332[0m
+[0mGET / [32m200 [0m3.899 ms - 477[0m
+[0mGET / [32m200 [0m3.696 ms - 477[0m

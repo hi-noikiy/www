@@ -35,5 +35,9 @@ module.exports = {
   },
   plugins: [
     extractPlugin
-  ]
+  ],
+  devServer: {
+    host: "0.0.0.0",
+    disableHostCheck: true
+  }
 };
