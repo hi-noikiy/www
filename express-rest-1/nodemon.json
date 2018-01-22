@@ -1,5 +1,6 @@
 {
   "env": {
-    "MONGO_ATLAS_PW": "Dlqka2380!"
+    "MONGO_ATLAS_PW": "Dlqka2380!",
+    "JWT_KEY": "mykey"
   }
 }
